@@ -1,1 +1,5 @@
-aws_region = "us-east-1"
+aws_region              = "us-east-1"
+bucket_name             = "example.com"
+certificate_arn         = "arn:aws:acm:us-east-1:23423424234:certificate/aaaaaaaaaaaaaaaa"
+route53_zone_domain     = "domain.com"
+cdn_domain              = "subdomain.domain.com"
